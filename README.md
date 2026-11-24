@@ -103,15 +103,14 @@ The Instructor class stores information about instructors.
 John Smith assigned to Programming
 John Smith assigned to Database Systems
 John Smith assigned to Software Engineering
-
 Programming added successfully.
 Database Systems added successfully.
 Software Engineering added successfully.
 
 --- Student Information ---
 Student No: 202501
-Full Name: John Smith
-Email: john@example.com
+Full Name: Emircan Yilmaz
+Email: emircan@example.com
 Program: Software Engineering
 
 --- Registered Courses ---
@@ -127,6 +126,5 @@ Course: Software Engineering
 Credits: 3
 Instructor: John Smith
 --------------------
-
 Total Credits: 10
 ```
