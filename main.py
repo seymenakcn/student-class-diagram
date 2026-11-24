@@ -73,8 +73,8 @@ instructor1.assign_course(course3)
 
 student1 = Student(
     202501,
-    "Ahmet Yilmaz",
-    "ahmet@example.com",
+    "Emircan Yilmaz",
+    "emircan@example.com",
     program1
 )
 
