@@ -110,8 +110,8 @@ Software Engineering added successfully.
 
 --- Student Information ---
 Student No: 202501
-Full Name: Ahmet Yilmaz
-Email: ahmet@example.com
+Full Name: John Smith
+Email: john@example.com
 Program: Software Engineering
 
 --- Registered Courses ---
